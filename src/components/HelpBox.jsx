@@ -10,7 +10,7 @@ function HelpBox({ title, text }) {
     </article>
   );
 }
-
+// test comment
 HelpBox.propTypes = {
   title: string,
   text: string,
